@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-x7eorx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://.github.io/csb-x7eorx/static/js/main.8137a7e0.chunk.js",
+    "main.js.map": "https://.github.io/csb-x7eorx/static/js/main.8137a7e0.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-x7eorx/static/js/runtime-main.e3da6968.js",
+    "runtime-main.js.map": "https://.github.io/csb-x7eorx/static/js/runtime-main.e3da6968.js.map",
+    "static/js/2.b00ad721.chunk.js": "https://.github.io/csb-x7eorx/static/js/2.b00ad721.chunk.js",
+    "static/js/2.b00ad721.chunk.js.map": "https://.github.io/csb-x7eorx/static/js/2.b00ad721.chunk.js.map",
+    "index.html": "https://.github.io/csb-x7eorx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://.github.io/csb-x7eorx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b00ad721.chunk.js.LICENSE.txt": "https://.github.io/csb-x7eorx/static/js/2.b00ad721.chunk.js.LICENSE.txt",
+    "static/media/pyra.f6c7da85.riv": "https://.github.io/csb-x7eorx/static/media/pyra.f6c7da85.riv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3da6968.js",
+    "static/js/2.b00ad721.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8137a7e0.chunk.js"
+  ]
+}
